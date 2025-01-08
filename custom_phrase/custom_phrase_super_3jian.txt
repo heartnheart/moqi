@@ -7039,7 +7039,7 @@ K线	kxm/
 满就送	mjs/
 没几天	mjt/
 某件事	mju/
-梦境中	mjv/
+枚举值	mjv/
 面积为	mjw/
 密集型	mjx/
 没经验	mjy/
